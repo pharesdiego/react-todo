@@ -1,0 +1,11 @@
+.row.text {
+	height: auto;
+	min-height: 95px;
+}
+.row.tools{
+	height: auto;
+}
+.box-hidden{
+	font-weight: bold;
+	cursor: pointer;
+}
