@@ -9,7 +9,7 @@ class Header extends Component {
 				<div className="container">
 					<div className="row">
 						<div className="offset-1">
-							<h1 className="title text-gradient"> To-do </h1>
+							<h1 className="title text-gradient"> To-dox </h1>
 						</div>
 					</div>
 				</div>
